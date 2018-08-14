@@ -1,0 +1,1461 @@
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Car parked : ts07ew7639
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Slot number: 2
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Car parked : ts07ew7639
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Slot number: 2
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Car parked : ts07ew7639
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Slot number: 2
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Car unparked : ts07eu7639
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Slot number: 1
+[Error] [Thu Aug 02 12:18:18 IST 2018] Login status: Wrong details
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Login Status: pass
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Option: Park car
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Car parked : TS07EU8639
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Option: Park car
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Car parked : TS07EU7639
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Slot number: 3
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Option: Unpark car
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Car unparked : TS07EU8639
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Car unparked : TS07EU8639
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Option: Display status of lobby
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Option: Unpark car
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Option: Admin Logout
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Login Status: pass
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Option: Park car
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Car parked : TS07EU8639
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Option: Park car
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Car parked : TS07EU7639
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Slot number: 2
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Option: Unpark car
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Car unparked : TS07EU8639
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Car unparked : TS07EU8639
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Option: Display status of lobby
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Option: Unpark car
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Option: Admin Logout
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Car parked : ts07ew7639
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Slot number: 2
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Car parked : ts07er7639
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Slot number: 3
+[Error] [Thu Aug 02 12:18:18 IST 2018] Unable to park : Parking area full!!!
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Car parked : ts07ew7639
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Slot number: 2
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 02 12:18:18 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Car parked : ts07ew7639
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Slot number: 2
+[Error] [Thu Aug 02 12:21:32 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Car parked : ts07ew7639
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Slot number: 2
+[Error] [Thu Aug 02 12:21:32 IST 2018] Unable to unpark : Invalid car number format!
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Car parked : ts07ew7639
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Slot number: 2
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Car unparked : ts07eu7639
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Slot number: 1
+[Error] [Thu Aug 02 12:21:32 IST 2018] Login status: Wrong details
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Login Status: pass
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Option: Park car
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Car parked : TS07EU8639
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Option: Park car
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Car parked : TS07EU7639
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Slot number: 3
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Option: Unpark car
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Car unparked : TS07EU8639
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Car unparked : TS07EU8639
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Option: Display status of lobby
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Option: Unpark car
+[Error] [Thu Aug 02 12:21:32 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Option: Admin Logout
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Login Status: pass
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Option: Park car
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Car parked : TS07EU8639
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Option: Park car
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Car parked : TS07EU7639
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Slot number: 2
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Option: Unpark car
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Car unparked : TS07EU8639
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Car unparked : TS07EU8639
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Option: Display status of lobby
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Option: Unpark car
+[Error] [Thu Aug 02 12:21:32 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Option: Admin Logout
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Initialization : Done successfully
+[Error] [Thu Aug 02 12:21:32 IST 2018] Unable to park : Invalid car number format!
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Car parked : ts07ew7639
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Slot number: 2
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Car parked : ts07er7639
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Slot number: 3
+[Error] [Thu Aug 02 12:21:32 IST 2018] Unable to park : Parking area full!!!
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Car parked : ts07ew7639
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Slot number: 2
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 02 12:21:32 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:33:15 IST 2018] Login Status: pass
+[Debug] [Thu Aug 02 12:33:15 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:33:17 IST 2018] Option: Display status of lobby
+[Debug] [Thu Aug 02 12:33:21 IST 2018] Option: Park car
+[Error] [Thu Aug 02 12:33:25 IST 2018] Unable to park : Car already in the lobby!!!
+[Debug] [Thu Aug 02 12:49:20 IST 2018] Login Status: pass
+[Debug] [Thu Aug 02 12:49:25 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:49:30 IST 2018] Option: Display status of lobby
+[Debug] [Thu Aug 02 12:49:49 IST 2018] Option: Park car
+[Debug] [Thu Aug 02 12:49:58 IST 2018] Car parked : AP29CB1118
+[Debug] [Thu Aug 02 12:49:58 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:50:01 IST 2018] Option: Display status of lobby
+[Debug] [Thu Aug 02 12:50:08 IST 2018] Option: Park car
+[Debug] [Thu Aug 02 12:50:15 IST 2018] Car parked : AP29CB1119
+[Debug] [Thu Aug 02 12:50:15 IST 2018] Slot number: 2
+[Debug] [Thu Aug 02 12:50:19 IST 2018] Option: Display status of lobby
+[Debug] [Thu Aug 02 12:50:26 IST 2018] Option: Park car
+[Debug] [Thu Aug 02 12:50:32 IST 2018] Car parked : AP29CB1117
+[Debug] [Thu Aug 02 12:50:32 IST 2018] Slot number: 3
+[Debug] [Thu Aug 02 12:50:38 IST 2018] Option: Unpark car
+[Debug] [Thu Aug 02 12:50:43 IST 2018] Car unparked : AP29CB1118
+[Debug] [Thu Aug 02 12:50:43 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:50:43 IST 2018] Car unparked : AP29CB1118
+[Debug] [Thu Aug 02 12:50:46 IST 2018] Option: Display status of lobby
+[Debug] [Thu Aug 02 12:51:02 IST 2018] Login Status: pass
+[Debug] [Thu Aug 02 12:51:02 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:51:05 IST 2018] Option: Display status of lobby
+[Debug] [Thu Aug 02 12:51:09 IST 2018] Option: Park car
+[Debug] [Thu Aug 02 12:51:14 IST 2018] Car parked : AP29CB1118
+[Debug] [Thu Aug 02 12:51:14 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:51:18 IST 2018] Option: Display status of lobby
+[Debug] [Thu Aug 02 12:51:22 IST 2018] Option: Park car
+[Debug] [Thu Aug 02 12:51:28 IST 2018] Car parked : AP29CB3333
+[Debug] [Thu Aug 02 12:51:28 IST 2018] Slot number: 4
+[Debug] [Thu Aug 02 12:51:31 IST 2018] Option: Park car
+[Error] [Thu Aug 02 12:51:38 IST 2018] Unable to park : Parking area full!!!
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Car parked : ts07ew7639
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Slot number: 2
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Car unparked : ts07eu7639
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Car parked : ts07ew7639
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Slot number: 2
+[Error] [Thu Aug 02 12:52:11 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Car parked : ts07ew7639
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Slot number: 2
+[Error] [Thu Aug 02 12:52:11 IST 2018] Unable to unpark : Invalid car number format!
+[Error] [Thu Aug 02 12:52:11 IST 2018] Login status: Wrong details
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Login Status: pass
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Option: Park car
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Car parked : TS07EU8639
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Option: Park car
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Car parked : TS07EU7639
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Slot number: 2
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Option: Unpark car
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Car unparked : TS07EU8639
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Car unparked : TS07EU8639
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Option: Display status of lobby
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Option: Unpark car
+[Error] [Thu Aug 02 12:52:11 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Option: Admin Logout
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Login Status: pass
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Option: Park car
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Car parked : TS07EU8639
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Option: Park car
+[Error] [Thu Aug 02 12:52:11 IST 2018] Unable to park : Car already in the lobby!!!
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Option: Unpark car
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Car unparked : TS07EU8639
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Car unparked : TS07EU8639
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Option: Display status of lobby
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Option: Unpark car
+[Error] [Thu Aug 02 12:52:11 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Option: Admin Logout
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Car parked : ts07ew7639
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Slot number: 2
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Car parked : ts07ew7639
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Slot number: 2
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Car parked : ts07er7639
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Slot number: 3
+[Error] [Thu Aug 02 12:52:11 IST 2018] Unable to park : Parking area full!!!
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Initialization : Done successfully
+[Error] [Thu Aug 02 12:52:11 IST 2018] Unable to park : Invalid car number format!
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 02 12:52:11 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Car parked : ts07ew7639
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Slot number: 2
+[Error] [Thu Aug 02 12:53:04 IST 2018] Unable to unpark : Invalid car number format!
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Car parked : ts07ew7639
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Slot number: 2
+[Error] [Thu Aug 02 12:53:04 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Car parked : ts07ew7639
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Slot number: 2
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Car unparked : ts07eu7639
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Slot number: 1
+[Error] [Thu Aug 02 12:53:04 IST 2018] Login status: Wrong details
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Login Status: pass
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Option: Park car
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Car parked : TS07EU8639
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Option: Park car
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Car parked : TS07EU7639
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Slot number: 2
+[Verbose] [Thu Aug 02 12:53:04 IST 2018] Option: Unpark car
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Car unparked : TS07EU8639
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Car unparked : TS07EU8639
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Option: Display status of lobby
+[Verbose] [Thu Aug 02 12:53:04 IST 2018] Option: Unpark car
+[Error] [Thu Aug 02 12:53:04 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Option: Admin Logout
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Login Status: pass
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Option: Park car
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Car parked : TS07EU8639
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Option: Park car
+[Error] [Thu Aug 02 12:53:04 IST 2018] Unable to park : Car already in the lobby!!!
+[Verbose] [Thu Aug 02 12:53:04 IST 2018] Option: Unpark car
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Car unparked : TS07EU8639
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Car unparked : TS07EU8639
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Option: Display status of lobby
+[Verbose] [Thu Aug 02 12:53:04 IST 2018] Option: Unpark car
+[Error] [Thu Aug 02 12:53:04 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Option: Admin Logout
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Initialization : Done successfully
+[Error] [Thu Aug 02 12:53:04 IST 2018] Unable to park : Invalid car number format!
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Car parked : ts07ew7639
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Slot number: 2
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Slot number: 1
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Car parked : ts07ew7639
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Slot number: 2
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Car parked : ts07er7639
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Slot number: 3
+[Error] [Thu Aug 02 12:53:04 IST 2018] Unable to park : Parking area full!!!
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 02 12:53:04 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:53:08 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:53:08 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 08:53:08 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:53:08 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 08:53:08 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 08:53:08 IST 2018] Car unparked : ts07eu7639
+[Debug] [Mon Aug 06 08:53:08 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:53:08 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:53:08 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 08:53:08 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:53:08 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 08:53:08 IST 2018] Slot number: 2
+[Error] [Mon Aug 06 08:53:08 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Mon Aug 06 08:53:08 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Slot number: 2
+[Error] [Mon Aug 06 08:53:09 IST 2018] Unable to unpark : Invalid car number format!
+[Error] [Mon Aug 06 08:53:09 IST 2018] Login status: Wrong details
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Login Status: pass
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Option: Park car
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Car parked : TS07EU8639
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Option: Park car
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Car parked : TS07EU7639
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Slot number: 2
+[Verbose] [Mon Aug 06 08:53:09 IST 2018] Option: Unpark car
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Option: Display status of lobby
+[Verbose] [Mon Aug 06 08:53:09 IST 2018] Option: Unpark car
+[Error] [Mon Aug 06 08:53:09 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Option: Admin Logout
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Login Status: pass
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Option: Park car
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Car parked : TS07EU8639
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Option: Park car
+[Error] [Mon Aug 06 08:53:09 IST 2018] Unable to park : Car already in the lobby!!!
+[Verbose] [Mon Aug 06 08:53:09 IST 2018] Option: Unpark car
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Option: Display status of lobby
+[Verbose] [Mon Aug 06 08:53:09 IST 2018] Option: Unpark car
+[Error] [Mon Aug 06 08:53:09 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Option: Admin Logout
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Car parked : ts07er7639
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Slot number: 3
+[Error] [Mon Aug 06 08:53:09 IST 2018] Unable to park : Parking area full!!!
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:53:09 IST 2018] Initialization : Done successfully
+[Error] [Mon Aug 06 08:53:09 IST 2018] Unable to park : Invalid car number format!
+[Debug] [Mon Aug 06 08:55:21 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:55:21 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 08:55:21 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:55:21 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 08:55:21 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 08:55:21 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:55:21 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 08:55:21 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:55:21 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 08:55:21 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 08:55:21 IST 2018] Car parked : ts07er7639
+[Debug] [Mon Aug 06 08:55:21 IST 2018] Slot number: 3
+[Debug] [Mon Aug 06 08:55:21 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:55:21 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 08:55:21 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:55:33 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:55:33 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 08:55:33 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:55:33 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 08:55:33 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 08:55:33 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:55:33 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 08:55:33 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:55:33 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 08:55:33 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 08:55:33 IST 2018] Car parked : ts07er7639
+[Debug] [Mon Aug 06 08:55:33 IST 2018] Slot number: 3
+[Error] [Mon Aug 06 08:55:33 IST 2018] Unable to park : Parking area full!!!
+[Debug] [Mon Aug 06 08:55:33 IST 2018] Initialization : Done successfully
+[Error] [Mon Aug 06 08:55:33 IST 2018] Unable to park : Invalid car number format!
+[Debug] [Mon Aug 06 08:55:33 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:55:33 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 08:55:33 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Slot number: 2
+[Error] [Mon Aug 06 08:55:44 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Slot number: 2
+[Error] [Mon Aug 06 08:55:44 IST 2018] Unable to unpark : Invalid car number format!
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Car unparked : ts07eu7639
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Slot number: 1
+[Error] [Mon Aug 06 08:55:44 IST 2018] Login status: Wrong details
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Login Status: pass
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Option: Park car
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Car parked : TS07EU8639
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Option: Park car
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Car parked : TS07EU7639
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Slot number: 2
+[Verbose] [Mon Aug 06 08:55:44 IST 2018] Option: Unpark car
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Option: Display status of lobby
+[Verbose] [Mon Aug 06 08:55:44 IST 2018] Option: Unpark car
+[Error] [Mon Aug 06 08:55:44 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Option: Admin Logout
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Login Status: pass
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Option: Park car
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Car parked : TS07EU8639
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Option: Park car
+[Error] [Mon Aug 06 08:55:44 IST 2018] Unable to park : Car already in the lobby!!!
+[Verbose] [Mon Aug 06 08:55:44 IST 2018] Option: Unpark car
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Option: Display status of lobby
+[Verbose] [Mon Aug 06 08:55:44 IST 2018] Option: Unpark car
+[Error] [Mon Aug 06 08:55:44 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Option: Admin Logout
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Initialization : Done successfully
+[Error] [Mon Aug 06 08:55:44 IST 2018] Unable to park : Invalid car number format!
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Car parked : ts07er7639
+[Debug] [Mon Aug 06 08:55:44 IST 2018] Slot number: 3
+[Error] [Mon Aug 06 08:55:44 IST 2018] Unable to park : Parking area full!!!
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Car unparked : ts07eu7639
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Slot number: 2
+[Error] [Mon Aug 06 08:55:52 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Slot number: 2
+[Error] [Mon Aug 06 08:55:52 IST 2018] Unable to unpark : Invalid car number format!
+[Error] [Mon Aug 06 08:55:52 IST 2018] Login status: Wrong details
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Login Status: pass
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Option: Park car
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Car parked : TS07EU8639
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Option: Park car
+[Error] [Mon Aug 06 08:55:52 IST 2018] Unable to park : Car already in the lobby!!!
+[Verbose] [Mon Aug 06 08:55:52 IST 2018] Option: Unpark car
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Option: Display status of lobby
+[Verbose] [Mon Aug 06 08:55:52 IST 2018] Option: Unpark car
+[Error] [Mon Aug 06 08:55:52 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Option: Admin Logout
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Login Status: pass
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Option: Park car
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Car parked : TS07EU8639
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Option: Park car
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Car parked : TS07EU7639
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Slot number: 2
+[Verbose] [Mon Aug 06 08:55:52 IST 2018] Option: Unpark car
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Option: Display status of lobby
+[Verbose] [Mon Aug 06 08:55:52 IST 2018] Option: Unpark car
+[Error] [Mon Aug 06 08:55:52 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Option: Admin Logout
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Car parked : ts07er7639
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Slot number: 3
+[Error] [Mon Aug 06 08:55:52 IST 2018] Unable to park : Parking area full!!!
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Initialization : Done successfully
+[Error] [Mon Aug 06 08:55:52 IST 2018] Unable to park : Invalid car number format!
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 08:55:52 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:11:37 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Slot number: 2
+[Error] [Mon Aug 06 15:11:38 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Slot number: 2
+[Error] [Mon Aug 06 15:11:38 IST 2018] Unable to unpark : Invalid car number format!
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Car unparked : ts07eu7639
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Slot number: 1
+[Error] [Mon Aug 06 15:11:38 IST 2018] Login status: Wrong details
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Login Status: pass
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Option: Park car
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Car parked : TS07EU8639
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Option: Park car
+[Error] [Mon Aug 06 15:11:38 IST 2018] Unable to park : Car already in the lobby!!!
+[Verbose] [Mon Aug 06 15:11:38 IST 2018] Option: Unpark car
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Option: Display status of lobby
+[Verbose] [Mon Aug 06 15:11:38 IST 2018] Option: Unpark car
+[Error] [Mon Aug 06 15:11:38 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Option: Admin Logout
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Initialization : Done successfully
+[Error] [Mon Aug 06 15:11:38 IST 2018] Unable to park : Invalid car number format!
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Car parked : ts07er7639
+[Debug] [Mon Aug 06 15:11:38 IST 2018] Slot number: 3
+[Error] [Mon Aug 06 15:11:38 IST 2018] Unable to park : Parking area full!!!
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Car unparked : ts07eu7639
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Slot number: 2
+[Error] [Mon Aug 06 15:20:07 IST 2018] Unable to unpark : Invalid car number format!
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Slot number: 2
+[Error] [Mon Aug 06 15:20:07 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Error] [Mon Aug 06 15:20:07 IST 2018] Login status: Wrong details
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Login Status: pass
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Option: Park car
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Car parked : TS07EU8639
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Option: Park car
+[Error] [Mon Aug 06 15:20:07 IST 2018] Unable to park : Car already in the lobby!!!
+[Verbose] [Mon Aug 06 15:20:07 IST 2018] Option: Unpark car
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Option: Display status of lobby
+[Verbose] [Mon Aug 06 15:20:07 IST 2018] Option: Unpark car
+[Error] [Mon Aug 06 15:20:07 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Option: Admin Logout
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Login Status: pass
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Option: Park car
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Car parked : TS07EU8639
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Option: Park car
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Car parked : TS07EU7639
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Slot number: 2
+[Verbose] [Mon Aug 06 15:20:07 IST 2018] Option: Unpark car
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Option: Display status of lobby
+[Verbose] [Mon Aug 06 15:20:07 IST 2018] Option: Unpark car
+[Error] [Mon Aug 06 15:20:07 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Option: Admin Logout
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Car parked : ts07er7639
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Slot number: 3
+[Error] [Mon Aug 06 15:20:07 IST 2018] Unable to park : Parking area full!!!
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Initialization : Done successfully
+[Error] [Mon Aug 06 15:20:07 IST 2018] Unable to park : Invalid car number format!
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:20:07 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Car unparked : ts07eu7639
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Slot number: 2
+[Error] [Mon Aug 06 15:21:23 IST 2018] Unable to unpark : Invalid car number format!
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Slot number: 2
+[Error] [Mon Aug 06 15:21:23 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Error] [Mon Aug 06 15:21:23 IST 2018] Login status: Wrong details
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Login Status: pass
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Option: Park car
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Car parked : TS07EU8639
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Option: Park car
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Car parked : TS07EU7639
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Slot number: 2
+[Verbose] [Mon Aug 06 15:21:23 IST 2018] Option: Unpark car
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Option: Display status of lobby
+[Verbose] [Mon Aug 06 15:21:23 IST 2018] Option: Unpark car
+[Error] [Mon Aug 06 15:21:23 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Option: Admin Logout
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Login Status: pass
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Option: Park car
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Car parked : TS07EU8639
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Option: Park car
+[Error] [Mon Aug 06 15:21:23 IST 2018] Unable to park : Car already in the lobby!!!
+[Verbose] [Mon Aug 06 15:21:23 IST 2018] Option: Unpark car
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Option: Display status of lobby
+[Verbose] [Mon Aug 06 15:21:23 IST 2018] Option: Unpark car
+[Error] [Mon Aug 06 15:21:23 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Option: Admin Logout
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Car parked : ts07er7639
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Slot number: 3
+[Error] [Mon Aug 06 15:21:23 IST 2018] Unable to park : Parking area full!!!
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:21:23 IST 2018] Initialization : Done successfully
+[Error] [Mon Aug 06 15:21:23 IST 2018] Unable to park : Invalid car number format!
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Slot number: 2
+[Error] [Mon Aug 06 15:27:45 IST 2018] Unable to unpark : Invalid car number format!
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Slot number: 2
+[Error] [Mon Aug 06 15:27:45 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Car unparked : ts07eu7639
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Slot number: 1
+[Error] [Mon Aug 06 15:27:45 IST 2018] Login status: Wrong details
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Login Status: pass
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Option: Park car
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Car parked : TS07EU8639
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Option: Park car
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Car parked : TS07EU7639
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Slot number: 2
+[Verbose] [Mon Aug 06 15:27:45 IST 2018] Option: Unpark car
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Option: Display status of lobby
+[Verbose] [Mon Aug 06 15:27:45 IST 2018] Option: Unpark car
+[Error] [Mon Aug 06 15:27:45 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Option: Admin Logout
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Login Status: pass
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Option: Park car
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Car parked : TS07EU8639
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Option: Park car
+[Error] [Mon Aug 06 15:27:45 IST 2018] Unable to park : Car already in the lobby!!!
+[Verbose] [Mon Aug 06 15:27:45 IST 2018] Option: Unpark car
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Option: Display status of lobby
+[Verbose] [Mon Aug 06 15:27:45 IST 2018] Option: Unpark car
+[Error] [Mon Aug 06 15:27:45 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Option: Admin Logout
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Initialization : Done successfully
+[Error] [Mon Aug 06 15:27:45 IST 2018] Unable to park : Invalid car number format!
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Car parked : ts07er7639
+[Debug] [Mon Aug 06 15:27:45 IST 2018] Slot number: 3
+[Error] [Mon Aug 06 15:27:45 IST 2018] Unable to park : Parking area full!!!
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Car unparked : ts07eu7639
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Slot number: 2
+[Error] [Mon Aug 06 15:28:30 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Slot number: 2
+[Error] [Mon Aug 06 15:28:30 IST 2018] Unable to unpark : Invalid car number format!
+[Error] [Mon Aug 06 15:28:30 IST 2018] Login status: Wrong details
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Login Status: pass
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Option: Park car
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Car parked : TS07EU8639
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Option: Park car
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Car parked : TS07EU7639
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Slot number: 2
+[Verbose] [Mon Aug 06 15:28:30 IST 2018] Option: Unpark car
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Option: Display status of lobby
+[Verbose] [Mon Aug 06 15:28:30 IST 2018] Option: Unpark car
+[Error] [Mon Aug 06 15:28:30 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Option: Admin Logout
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Login Status: pass
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Option: Park car
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Car parked : TS07EU8639
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Option: Park car
+[Error] [Mon Aug 06 15:28:30 IST 2018] Unable to park : Car already in the lobby!!!
+[Verbose] [Mon Aug 06 15:28:30 IST 2018] Option: Unpark car
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Car unparked : TS07EU8639
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Option: Display status of lobby
+[Verbose] [Mon Aug 06 15:28:30 IST 2018] Option: Unpark car
+[Error] [Mon Aug 06 15:28:30 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Option: Admin Logout
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Slot number: 1
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Car parked : ts07ew7639
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Slot number: 2
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Car parked : ts07er7639
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Slot number: 3
+[Error] [Mon Aug 06 15:28:30 IST 2018] Unable to park : Parking area full!!!
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Initialization : Done successfully
+[Error] [Mon Aug 06 15:28:30 IST 2018] Unable to park : Invalid car number format!
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Car parked : ts07eu7639
+[Debug] [Mon Aug 06 15:28:30 IST 2018] Slot number: 1
+[Debug] [Tue Aug 07 14:49:57 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Car parked : ts07eu7639
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Slot number: 1
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Car parked : ts07ew7639
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Slot number: 2
+[Error] [Tue Aug 07 14:49:58 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Car parked : ts07eu7639
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Slot number: 1
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Car parked : ts07ew7639
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Slot number: 2
+[Error] [Tue Aug 07 14:49:58 IST 2018] Unable to unpark : Invalid car number format!
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Car parked : ts07eu7639
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Slot number: 1
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Car parked : ts07ew7639
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Slot number: 2
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Car unparked : ts07eu7639
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Slot number: 1
+[Error] [Tue Aug 07 14:49:58 IST 2018] Login status: Wrong details
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Login Status: pass
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Option: Park car
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Car parked : TS07EU8639
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Slot number: 1
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Option: Park car
+[Error] [Tue Aug 07 14:49:58 IST 2018] Unable to park : Car already in the lobby!!!
+[Verbose] [Tue Aug 07 14:49:58 IST 2018] Option: Unpark car
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Car unparked : TS07EU8639
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Slot number: 1
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Car unparked : TS07EU8639
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Option: Display status of lobby
+[Verbose] [Tue Aug 07 14:49:58 IST 2018] Option: Unpark car
+[Error] [Tue Aug 07 14:49:58 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Option: Admin Logout
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Login Status: pass
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Option: Park car
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Car parked : TS07EU8639
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Slot number: 1
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Option: Park car
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Car parked : TS07EU7639
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Slot number: 2
+[Verbose] [Tue Aug 07 14:49:58 IST 2018] Option: Unpark car
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Car unparked : TS07EU8639
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Slot number: 1
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Car unparked : TS07EU8639
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Option: Display status of lobby
+[Verbose] [Tue Aug 07 14:49:58 IST 2018] Option: Unpark car
+[Error] [Tue Aug 07 14:49:58 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Option: Admin Logout
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Car parked : ts07eu7639
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Slot number: 1
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Initialization : Done successfully
+[Error] [Tue Aug 07 14:49:58 IST 2018] Unable to park : Invalid car number format!
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Car parked : ts07eu7639
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Slot number: 1
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Car parked : ts07ew7639
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Slot number: 2
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Car parked : ts07eu7639
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Slot number: 1
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Car parked : ts07ew7639
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Slot number: 2
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Car parked : ts07er7639
+[Debug] [Tue Aug 07 14:49:58 IST 2018] Slot number: 3
+[Error] [Tue Aug 07 14:49:58 IST 2018] Unable to park : Parking area full!!!
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Car parked : ts07eu7639
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Slot number: 1
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Car parked : ts07ew7639
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Slot number: 2
+[Error] [Tue Aug 07 14:54:10 IST 2018] Unable to unpark : Invalid car number format!
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Car parked : ts07eu7639
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Slot number: 1
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Car parked : ts07ew7639
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Slot number: 2
+[Error] [Tue Aug 07 14:54:10 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Car parked : ts07eu7639
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Slot number: 1
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Car parked : ts07ew7639
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Slot number: 2
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Car unparked : ts07eu7639
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Slot number: 1
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Initialization : Done successfully
+[Error] [Tue Aug 07 14:54:10 IST 2018] Unable to park : Invalid car number format!
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Car parked : ts07eu7639
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Slot number: 1
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Car parked : ts07eu7639
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Slot number: 1
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Car parked : ts07ew7639
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Slot number: 2
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Car parked : ts07eu7639
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Slot number: 1
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Car parked : ts07ew7639
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Slot number: 2
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Car parked : ts07er7639
+[Debug] [Tue Aug 07 14:54:10 IST 2018] Slot number: 3
+[Error] [Tue Aug 07 14:54:10 IST 2018] Unable to park : Parking area full!!!
+[Debug] [Tue Aug 07 14:54:51 IST 2018] Login Status: pass
+[Debug] [Tue Aug 07 14:54:51 IST 2018] Initialization : Done successfully
+[Error] [Tue Aug 07 14:55:11 IST 2018] Login status: Wrong details
+[Debug] [Wed Aug 08 08:58:41 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Slot number: 2
+[Error] [Wed Aug 08 08:58:42 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Slot number: 2
+[Error] [Wed Aug 08 08:58:42 IST 2018] Unable to unpark : Invalid car number format!
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Slot number: 2
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Car unparked : ts07eu7639
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Initialization : Done successfully
+[Error] [Wed Aug 08 08:58:42 IST 2018] Unable to park : Invalid car number format!
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Slot number: 2
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Car parked : ts07er7639
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Slot number: 3
+[Error] [Wed Aug 08 08:58:42 IST 2018] Unable to park : Parking area full!!!
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 08:58:42 IST 2018] Slot number: 2
+[Debug] [Wed Aug 08 08:59:37 IST 2018] Login Status: pass
+[Debug] [Wed Aug 08 08:59:37 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 08:59:43 IST 2018] Login Status: pass
+[Debug] [Wed Aug 08 08:59:43 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:00:08 IST 2018] Login Status: pass
+[Debug] [Wed Aug 08 09:00:08 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:00:18 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:00:18 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 09:00:18 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:00:18 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 09:00:18 IST 2018] Slot number: 2
+[Error] [Wed Aug 08 09:00:18 IST 2018] Unable to unpark : Invalid car number format!
+[Debug] [Wed Aug 08 09:00:18 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:00:18 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 09:00:18 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:00:18 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 09:00:18 IST 2018] Slot number: 2
+[Error] [Wed Aug 08 09:00:18 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Wed Aug 08 09:00:18 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:00:18 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 09:00:18 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:00:18 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 09:00:18 IST 2018] Slot number: 2
+[Debug] [Wed Aug 08 09:00:18 IST 2018] Car unparked : ts07eu7639
+[Debug] [Wed Aug 08 09:00:18 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:00:18 IST 2018] Login Status: pass
+[Debug] [Wed Aug 08 09:00:18 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:00:24 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:00:24 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 09:00:24 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:00:24 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 09:00:24 IST 2018] Slot number: 2
+[Debug] [Wed Aug 08 09:00:24 IST 2018] Car unparked : ts07eu7639
+[Debug] [Wed Aug 08 09:00:24 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:00:24 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:00:24 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 09:00:24 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:00:24 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 09:00:24 IST 2018] Slot number: 2
+[Error] [Wed Aug 08 09:00:24 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Wed Aug 08 09:00:24 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:00:24 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 09:00:24 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:00:24 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 09:00:24 IST 2018] Slot number: 2
+[Error] [Wed Aug 08 09:00:24 IST 2018] Unable to unpark : Invalid car number format!
+[Debug] [Wed Aug 08 09:00:24 IST 2018] Login Status: pass
+[Debug] [Wed Aug 08 09:00:24 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:00:35 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:00:35 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 09:00:35 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:00:35 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 09:00:35 IST 2018] Slot number: 2
+[Debug] [Wed Aug 08 09:00:35 IST 2018] Car unparked : ts07eu7639
+[Debug] [Wed Aug 08 09:00:35 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:00:35 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:00:35 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 09:00:35 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:00:35 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 09:00:35 IST 2018] Slot number: 2
+[Error] [Wed Aug 08 09:00:35 IST 2018] Unable to unpark : Invalid car number format!
+[Debug] [Wed Aug 08 09:00:35 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:00:35 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 09:00:35 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:00:35 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 09:00:35 IST 2018] Slot number: 2
+[Error] [Wed Aug 08 09:00:35 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Wed Aug 08 09:00:35 IST 2018] Login Status: pass
+[Debug] [Wed Aug 08 09:00:35 IST 2018] Initialization : Done successfully
+[Error] [Wed Aug 08 09:01:30 IST 2018] Login status: Wrong details
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Slot number: 2
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Car unparked : ts07eu7639
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Slot number: 2
+[Error] [Wed Aug 08 09:01:39 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Slot number: 2
+[Error] [Wed Aug 08 09:01:39 IST 2018] Unable to unpark : Invalid car number format!
+[Error] [Wed Aug 08 09:01:39 IST 2018] Login status: Wrong details
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Slot number: 2
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Car parked : ts07er7639
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Slot number: 3
+[Error] [Wed Aug 08 09:01:39 IST 2018] Unable to park : Parking area full!!!
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Slot number: 2
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:01:39 IST 2018] Initialization : Done successfully
+[Error] [Wed Aug 08 09:01:39 IST 2018] Unable to park : Invalid car number format!
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Slot number: 2
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Car unparked : ts07eu7639
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Slot number: 2
+[Error] [Wed Aug 08 09:02:39 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Slot number: 2
+[Error] [Wed Aug 08 09:02:39 IST 2018] Unable to unpark : Invalid car number format!
+[Error] [Wed Aug 08 09:02:39 IST 2018] Login status: Wrong details
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Login Status: pass
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Option: Park car
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Car parked : TS07EU8639
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Option: Park car
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Car parked : TS07EU7639
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Slot number: 2
+[Verbose] [Wed Aug 08 09:02:39 IST 2018] Option: Unpark car
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Car unparked : TS07EU8639
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Car unparked : TS07EU8639
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Option: Display status of lobby
+[Verbose] [Wed Aug 08 09:02:39 IST 2018] Option: Unpark car
+[Error] [Wed Aug 08 09:02:39 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Option: Admin Logout
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Login Status: pass
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Option: Park car
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Car parked : TS07EU8639
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Option: Park car
+[Error] [Wed Aug 08 09:02:39 IST 2018] Unable to park : Car already in the lobby!!!
+[Verbose] [Wed Aug 08 09:02:39 IST 2018] Option: Unpark car
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Car unparked : TS07EU8639
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Car unparked : TS07EU8639
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Option: Display status of lobby
+[Verbose] [Wed Aug 08 09:02:39 IST 2018] Option: Unpark car
+[Error] [Wed Aug 08 09:02:39 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Option: Admin Logout
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Slot number: 2
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Car parked : ts07er7639
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Slot number: 3
+[Error] [Wed Aug 08 09:02:39 IST 2018] Unable to park : Parking area full!!!
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Slot number: 2
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Initialization : Done successfully
+[Error] [Wed Aug 08 09:02:39 IST 2018] Unable to park : Invalid car number format!
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 09:02:39 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Slot number: 2
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Car unparked : ts07eu7639
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Slot number: 2
+[Error] [Wed Aug 08 09:03:57 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Slot number: 2
+[Error] [Wed Aug 08 09:03:57 IST 2018] Unable to unpark : Invalid car number format!
+[Error] [Wed Aug 08 09:03:57 IST 2018] Login status: Wrong details
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Login Status: pass
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Option: Park car
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Car parked : TS07EU8639
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Option: Park car
+[Error] [Wed Aug 08 09:03:57 IST 2018] Unable to park : Car already in the lobby!!!
+[Verbose] [Wed Aug 08 09:03:57 IST 2018] Option: Unpark car
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Car unparked : TS07EU8639
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Car unparked : TS07EU8639
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Option: Display status of lobby
+[Verbose] [Wed Aug 08 09:03:57 IST 2018] Option: Unpark car
+[Error] [Wed Aug 08 09:03:57 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Option: Admin Logout
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Login Status: pass
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Option: Park car
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Car parked : TS07EU8639
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Option: Park car
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Car parked : TS07EU7639
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Slot number: 2
+[Verbose] [Wed Aug 08 09:03:57 IST 2018] Option: Unpark car
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Car unparked : TS07EU8639
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Car unparked : TS07EU8639
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Option: Display status of lobby
+[Verbose] [Wed Aug 08 09:03:57 IST 2018] Option: Unpark car
+[Error] [Wed Aug 08 09:03:57 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Option: Admin Logout
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Initialization : Done successfully
+[Error] [Wed Aug 08 09:03:57 IST 2018] Unable to park : Invalid car number format!
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Slot number: 2
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Car parked : ts07er7639
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Slot number: 3
+[Error] [Wed Aug 08 09:03:57 IST 2018] Unable to park : Parking area full!!!
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Slot number: 1
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Car parked : ts07ew7639
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Slot number: 2
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Initialization : Done successfully
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Car parked : ts07eu7639
+[Debug] [Wed Aug 08 09:03:57 IST 2018] Slot number: 1
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Login Status: pass
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Option: Park car
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Car parked : TS07EU8639
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Slot number: 1
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Option: Park car
+[Error] [Thu Aug 09 19:49:23 IST 2018] Unable to park : Car already in the lobby!!!
+[Verbose] [Thu Aug 09 19:49:23 IST 2018] Option: Unpark car
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Car unparked : TS07EU8639
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Slot number: 1
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Car unparked : TS07EU8639
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Option: Display status of lobby
+[Verbose] [Thu Aug 09 19:49:23 IST 2018] Option: Unpark car
+[Error] [Thu Aug 09 19:49:23 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Option: Admin Logout
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Login Status: pass
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Option: Park car
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Car parked : TS07EU8639
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Slot number: 1
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Option: Park car
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Car parked : TS07EU7639
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Slot number: 2
+[Verbose] [Thu Aug 09 19:49:23 IST 2018] Option: Unpark car
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Car unparked : TS07EU8639
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Slot number: 1
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Car unparked : TS07EU8639
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Option: Display status of lobby
+[Verbose] [Thu Aug 09 19:49:23 IST 2018] Option: Unpark car
+[Error] [Thu Aug 09 19:49:23 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Option: Admin Logout
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Initialization : Done successfully
+[Error] [Thu Aug 09 19:49:23 IST 2018] Unable to park : Invalid car number format!
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Slot number: 1
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Slot number: 1
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Car parked : ts07ew7639
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Slot number: 2
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Car parked : ts07er7639
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Slot number: 3
+[Error] [Thu Aug 09 19:49:23 IST 2018] Unable to park : Parking area full!!!
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Slot number: 1
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Car parked : ts07ew7639
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Slot number: 2
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Slot number: 1
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Car parked : ts07ew7639
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Slot number: 2
+[Error] [Thu Aug 09 19:49:23 IST 2018] Unable to unpark : Invalid car number format!
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Slot number: 1
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Car parked : ts07ew7639
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Slot number: 2
+[Error] [Thu Aug 09 19:49:23 IST 2018] Unable to unpark : Please check the number.. Car is not in the Lobby
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Initialization : Done successfully
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Car parked : ts07eu7639
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Slot number: 1
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Car parked : ts07ew7639
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Slot number: 2
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Car unparked : ts07eu7639
+[Debug] [Thu Aug 09 19:49:23 IST 2018] Slot number: 1
+[Debug] [Mon Aug 13 09:34:39 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 09:35:05 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 09:35:28 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 09:35:28 IST 2018] Car parked : TS07EU7633
+[Debug] [Mon Aug 13 09:35:28 IST 2018] Slot number: 4
+[Debug] [Mon Aug 13 09:35:40 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 09:43:11 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 09:43:14 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 09:44:44 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 09:44:51 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 09:44:51 IST 2018] Car unparked : TS07EU7639
+[Debug] [Mon Aug 13 09:44:51 IST 2018] Slot number: 1
+[Debug] [Mon Aug 13 09:44:55 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 09:45:03 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 11:28:14 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 11:28:14 IST 2018] Car parked : TS07EU7631
+[Debug] [Mon Aug 13 11:28:14 IST 2018] Slot number: 1
+[Debug] [Mon Aug 13 11:52:02 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 11:52:02 IST 2018] Car parked : TS07EU7639
+[Debug] [Mon Aug 13 11:52:02 IST 2018] Slot number: 5
+[Debug] [Mon Aug 13 11:52:06 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 11:52:50 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 11:52:56 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 11:52:56 IST 2018] Car unparked : TS07EU7639
+[Debug] [Mon Aug 13 11:52:56 IST 2018] Slot number: 5
+[Debug] [Mon Aug 13 12:07:23 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 12:07:27 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 12:07:34 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 12:07:34 IST 2018] Car parked : TS07EU7639
+[Debug] [Mon Aug 13 12:07:34 IST 2018] Slot number: 5
+[Debug] [Mon Aug 13 12:07:37 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 12:23:31 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 12:23:37 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 12:23:37 IST 2018] Car unparked : TS07EU7639
+[Debug] [Mon Aug 13 12:23:37 IST 2018] Slot number: 5
+[Debug] [Mon Aug 13 12:23:43 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 12:23:54 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 12:24:26 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 12:24:33 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 12:30:31 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 12:30:38 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 12:30:42 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 12:36:33 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:09:39 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:18:54 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:18:59 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:19:13 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:23:28 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:26:51 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:29:03 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:29:10 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:29:10 IST 2018] Car unparked : TS07EU7633
+[Debug] [Mon Aug 13 14:29:10 IST 2018] Slot number: 4
+[Debug] [Mon Aug 13 14:29:12 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:29:14 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:29:14 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:29:15 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:29:15 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:29:15 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:29:19 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:29:22 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:29:26 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:29:26 IST 2018] Car parked : TS07EU7639
+[Debug] [Mon Aug 13 14:29:26 IST 2018] Slot number: 4
+[Debug] [Mon Aug 13 14:29:32 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:39:00 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:39:10 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:40:05 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:43:37 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:44:46 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:45:03 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:45:07 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:45:09 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:45:26 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:45:26 IST 2018] Car unparked : TS07EU7639
+[Debug] [Mon Aug 13 14:45:26 IST 2018] Slot number: 4
+[Debug] [Mon Aug 13 14:45:31 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:45:33 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:46:34 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 14:46:34 IST 2018] Car parked : TS07EU7639
+[Debug] [Mon Aug 13 14:46:34 IST 2018] Slot number: 4
+[Debug] [Mon Aug 13 15:02:28 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 15:02:28 IST 2018] Car unparked : TS07EU7639
+[Debug] [Mon Aug 13 15:02:28 IST 2018] Slot number: 4
+[Debug] [Mon Aug 13 15:02:33 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 15:03:43 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 15:03:48 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 15:03:53 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 15:03:53 IST 2018] Car parked : TS07EU7639
+[Debug] [Mon Aug 13 15:03:53 IST 2018] Slot number: 4
+[Debug] [Mon Aug 13 15:03:59 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 15:04:04 IST 2018] Initialization : Done successfully
+[Debug] [Mon Aug 13 15:04:04 IST 2018] Car unparked : TS07EU7639
+[Debug] [Mon Aug 13 15:04:04 IST 2018] Slot number: 4
+[Debug] [Mon Aug 13 15:04:07 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 14 11:10:27 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 14 11:10:48 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 14 11:10:48 IST 2018] Car parked : TS07EU7639
+[Debug] [Tue Aug 14 11:10:48 IST 2018] Slot number: 4
+[Debug] [Tue Aug 14 11:11:03 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 14 11:11:03 IST 2018] Car unparked : TS07EU7639
+[Debug] [Tue Aug 14 11:11:03 IST 2018] Slot number: 4
+[Debug] [Tue Aug 14 11:11:08 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 14 11:11:11 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 14 11:11:49 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 14 11:11:49 IST 2018] Car parked : TS07EU7639
+[Debug] [Tue Aug 14 11:11:49 IST 2018] Slot number: 4
+[Debug] [Tue Aug 14 11:11:54 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 14 11:12:19 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 14 11:12:26 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 14 11:12:32 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 14 11:12:32 IST 2018] Car parked : TS07EU7633
+[Debug] [Tue Aug 14 11:12:32 IST 2018] Slot number: 5
+[Debug] [Tue Aug 14 11:12:37 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 14 11:12:42 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 14 11:12:54 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 14 11:12:54 IST 2018] Car unparked : TS07EU7633
+[Debug] [Tue Aug 14 11:12:54 IST 2018] Slot number: 5
+[Debug] [Tue Aug 14 11:13:01 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 14 11:13:01 IST 2018] Car unparked : TS07EU7639
+[Debug] [Tue Aug 14 11:13:01 IST 2018] Slot number: 4
+[Debug] [Tue Aug 14 11:13:11 IST 2018] Initialization : Done successfully
+[Debug] [Tue Aug 14 11:13:27 IST 2018] Initialization : Done successfully
